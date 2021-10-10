@@ -2,6 +2,15 @@
 
 Este repositório é uma coleção de códigos-fontes para criar estruturas de dados, entre as estruturas estão: [fila](./source/fila.cpp), [pilha](/source/pilha.cpp), [lista simplesmente encadeada](/source/lista_simplesmnete_encadeada.cpp), [lista duplamente encadeada](/source/lista_duplamente_encadeada.cpp) e [arvore binaria](/source/arvore_binaria.cpp).
 
+## Estruturas criadas
+
+Estruturas de dados realizadas desde o último commit:
+
+- [X] Pilha
+- [ ] Fila
+- [ ] Lista simplesmente encadeada
+- [ ] Lista duplamente encadeada
+- [ ] Árvore binária
 
 ## Ambiente de criação e teste
 
